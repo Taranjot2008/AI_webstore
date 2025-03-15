@@ -158,7 +158,7 @@ a{
 
 #tile1 {
     padding: 20px;
-    background-image: url('images1.jpg'); /* Background image */
+    background-image: url('site_images/images1.jpg'); /* Background image */
     background-size: 150%;
     background-position: center;
     filter: brightness(0.7);
@@ -169,7 +169,7 @@ a{
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
     background-image: 
-        url('images1.jpg'), /* Background image */
+        url('site_images/images1.jpg'), /* Background image */
         linear-gradient(to right, red, blue); /* Gradient for border */
     color: #fff;
     transition: background-size 0.7s ease;
@@ -181,7 +181,7 @@ a{
 
 #tile2{
     padding: 20px;
-    background-image: url('gemini.png'); /* Background image */
+    background-image: url('site_images/gemini.png'); /* Background image */
     background-size: 190%;
     background-position: center;
     filter: brightness(0.7);
@@ -192,7 +192,7 @@ a{
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
     background-image: 
-        url('gemini.png'), /* Background image */
+        url('site_images/gemini.png'), /* Background image */
         linear-gradient(to right, red, blue); /* Gradient for border */
     color: #fff;
     transition: background-size 0.7s ease;
@@ -204,7 +204,7 @@ a{
 
 #tile3{
     padding: 20px;
-    background-image: url('Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
+    background-image: url('site_images/Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
     background-size: 160%;
     background-position: center;
     filter: brightness(0.7);
@@ -215,7 +215,7 @@ a{
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
     background-image: 
-        url('Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
+        url('site_images/Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
         linear-gradient(to right, red, blue); /* Gradient for border */
     color: #fff;
     transition: background-size 0.7s ease;
@@ -251,7 +251,7 @@ a{
 
 #tile4{
     padding: 20px;
-    background-image: url('Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
+    background-image: url('site_images/Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
     background-size: 160%;
     background-position: center;
     filter: brightness(0.7);
@@ -262,7 +262,7 @@ a{
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
     background-image: 
-        url('Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
+        url('site_images/Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
         linear-gradient(to right, red, blue); /* Gradient for border */
     color: #fff;
     transition: background-size 0.7s ease;
@@ -274,7 +274,7 @@ a{
 
 #tile5{
     padding: 20px;
-    background-image: url('Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
+    background-image: url('site_images/Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
     background-size: 160%;
     background-position: center;
     filter: brightness(0.7);
@@ -285,7 +285,7 @@ a{
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
     background-image: 
-        url('Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
+        url('site_images/Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
         linear-gradient(to right, red, blue); /* Gradient for border */
     color: #fff;
     transition: background-size 0.7s ease;
@@ -297,7 +297,7 @@ a{
 
 #tile6{
     padding: 20px;
-    background-image: url('Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
+    background-image: url('site_images/Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
     background-size: 160%;
     background-position: center;
     filter: brightness(0.7);
@@ -308,7 +308,7 @@ a{
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
     background-image: 
-        url('Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
+        url('site_images/Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
         linear-gradient(to right, red, blue); /* Gradient for border */
     color: #fff;
     transition: background-size 0.7s ease;
@@ -320,7 +320,7 @@ a{
 
 #tile7{
     padding: 20px;
-    background-image: url('Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
+    background-image: url('site_images/Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
     background-size: 160%;
     background-position: center;
     filter: brightness(0.7);
@@ -331,7 +331,7 @@ a{
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
     background-image: 
-        url('Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
+        url('site_images/Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
         linear-gradient(to right, red, blue); /* Gradient for border */
     color: #fff;
     transition: background-size 0.7s ease;
@@ -343,7 +343,7 @@ a{
 
 #tile8{
     padding: 20px;
-    background-image: url('Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
+    background-image: url('site_images/Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
     background-size: 160%;
     background-position: center;
     filter: brightness(0.7);
@@ -354,7 +354,7 @@ a{
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
     background-image: 
-        url('Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
+        url('site_images/Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
         linear-gradient(to right, red, blue); /* Gradient for border */
     color: #fff;
     transition: background-size 0.7s ease;
@@ -366,7 +366,7 @@ a{
 
 #tile9{
     padding: 20px;
-    background-image: url('Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
+    background-image: url('site_images/Microsoft_365_Copilot_Icon.svg_.png'); /* Background image */
     background-size: 160%;
     background-position: center;
     filter: brightness(0.7);
@@ -377,7 +377,7 @@ a{
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
     background-image: 
-        url('Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
+        url('site_images/Microsoft_365_Copilot_Icon.svg_.png'), /* Background image */
         linear-gradient(to right, red, blue); /* Gradient for border */
     color: #fff;
     transition: background-size 0.7s ease;
